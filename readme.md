@@ -16,3 +16,9 @@
     * Git commit -m "primer cambio"
     * Git branch -M main ( cambia de nombre la rama en la que estabamos q era master, a main, pero no crea una nueva rama, solo renombra a la que estabamos)
     * Git push origin main ( sube ese cambio al main)
+
+# como crear Ramas:
+- git branch: listado de ramas y sobre cual estoy trabajando
+- git branch + nombreRama: crea rama
+- git checkout + nombreRama: me mueve a la rama
+- git   
