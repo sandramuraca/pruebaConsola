@@ -21,4 +21,4 @@
 - git branch: listado de ramas y sobre cual estoy trabajando
 - git branch + nombreRama: crea rama
 - git checkout + nombreRama: me mueve a la rama
-- git   
+- git checkout -b : va a crear rama y te lleva a la rama
